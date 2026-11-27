@@ -1,9 +1,7 @@
-sourabgangoliya 
+print("sourabgangoliya")
 
-
-
-git commit -m "init commit"
-
+sourabgangoliya = "hello, world!"
+print(sourabgangoliya)
 
 
 
